@@ -51,4 +51,4 @@ Feito automaticamente com push para o GitHub usando [Vercel](https://vercel.com/
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por [Seu Nome Aqui] – inspirado em exercícios do IFPB.
+Desenvolvido por [Sergio Henrique] – inspirado em exercícios na Disciplina de DW do IFPB.
